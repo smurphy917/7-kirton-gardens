@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ground Floor Remodel</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__left">
+    <div class="stackedit__toc">
+      
+<ul>
+<li><a href="#kirton-gardens---ground-floor-remodel">7 Kirton Gardens - Ground Floor Remodel</a></li>
+<li><a href="#background">Background</a>
+<ul>
+<li><a href="#existing-layout">Existing Layout</a>
+<ul>
+<li>
+<ul>
+<li></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#structural-inspection">Structural Inspection</a>
+<ul>
+<li></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#proposal-elements">Proposal Elements</a>
+<ul>
+<li><a href="#new-layout">1. New Layout</a>
+<ul>
+<li>
+<ul>
+<li></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#add-new-toiletwet-room">2. Add new toilet/wet room</a></li>
+<li><a href="#new-kitchen">3. New kitchen</a></li>
+<li><a href="#flooring">4. Flooring</a></li>
+<li><a href="#front-entry-door">5. Front Entry Door</a></li>
+<li><a href="#additional-modifications">6. Additional Modifications</a></li>
+</ul>
+</li>
+</ul>
+
+    </div>
+  </div>
+  <div class="stackedit__right">
+    <div class="stackedit__html">
+      <h1 id="kirton-gardens---ground-floor-remodel">7 Kirton Gardens - Ground Floor Remodel</h1>
+<h1 id="background">Background</h1>
+<h2 id="existing-layout">Existing Layout</h2>
+<p>The following floor plan represents the existing layout of the ground floor of  the property.</p>
+<h5 id="fig.-1---existing-ground-floor-layout">Fig. 1 - Existing Ground Floor Layout</h5>
+<p><img src="https://drive.google.com/uc?id=18-QnwT-9GVZPlRgwtTJ35s-7DVsKVvq3" alt="Existing layout"></p>
+<h2 id="structural-inspection">Structural Inspection</h2>
+<p>An inspection was performed by a registered structural engineer on 29 July, 2020. The engineer confirmed the following points regarding the current state of the property:</p>
+<ul>
+<li>The interior partition walls on the ground floor are structural and provide support for the first floor joists and walls.
+<ul>
+<li>The principal north-south wall currently separating the reception room from the kitchen and hall supports the floor joists comprising the main and third bedrooms on the first floor above. west of this principal wall, the floor joists run east-west.</li>
+<li>A triple timber beam running parallel to the principal north-south wall supports the first floor wall above which separates the main and second bedrooms. This beam is in turn supported at its north end by the exterior block wall and near its south end by the block wall comprising the north wall of the central cupboard on the ground floor.</li>
+</ul>
+</li>
+<li>The floor joists for the remainder of the first floor, over the current kitchen and hall run north-south and are supported by the principal ground floor east-west partition wall currently separating the hall and the kitchen.</li>
+</ul>
+<p>Based on these findings, it is anticipated that any modifications to the ground floor partition walls would require appropriate structural works to maintain the integrity of the property.</p>
+<h4 id="ground-floor-structural-elements">Ground Floor Structural Elements</h4>
+<p><img src="https://drive.google.com/uc?id=1ghtzETvLIqe3PKKGvMFmj-DfwWjer5Cp" alt="Structural Elements" width="300"></p>
+<h1 id="proposal-elements">Proposal Elements</h1>
+<h2 id="new-layout">1. New Layout</h2>
+<p>Chief among the proposed modifications is removing the interior partition walls on the ground floor to effect a more open living space encompassing the current kitchen, hall and reception rooms.</p>
+<p>As noted above, modifications to the ground floor partition walls will require appropriate accommodations to maintain the structural integrity of the property.</p>
+<p>In consultation with the registered structural engineer who performed the initial inspection, the following structural elements are proposed to support the removal of the interior partition walls:</p>
+<ul>
+<li>Installation of a steel beam, appropriately sized, to carry the load currently supported by the principal north-south wall separating the kitchen and hall from the reception room.
+<ul>
+<li>At the north end, this beam is to be supported by the exterior block wall.</li>
+<li>At the south end, this beam is to be supported by a new steel column, installed with an appropriate poured footing. See diagram for proposed location.</li>
+</ul>
+</li>
+<li>Installation of a steel beam, appropriately sized, to carry the load currently supported by the principal east-west wall separating the kitchen from the hall.
+<ul>
+<li>At the east end, this beam is to be supported by a connection to the north-south beam.</li>
+<li>At the west end, this beam is to be supported by a column, installed with an appropriate poured footing. See diagram for proposed location.</li>
+</ul>
+<h5 id="fig.-2---proposed-structural-elements">Fig. 2 - Proposed Structural Elements</h5>
+<img src="https://drive.google.com/uc?id=14yCZvD-YCOhpBFFxvP3rjWmdxI9qz2qb" alt="enter image description here"></li>
+</ul>
+<h2 id="add-new-toiletwet-room">2. Add new toilet/wet room</h2>
+<p>As part of the new ground floor layout, an additional toilet is to be added. The proposed location is adjacent the existing hall, near the entrance to the property. The space for the toilet would come primarily by adjusting the existing kitchen layout, resulting in a reduction in width of the kitchen near the west end of the property (see Section 3 for proposed changes to the kitchen).</p>
+<p>Entrance to the toilet would be via a sliding pocket door to make available additional space that would otherwise be required for a typical swinging door. It is also anticipated that a pocket door will make ingress much easier.</p>
+<p>This proposed location has multiple benefits:</p>
+<ul>
+<li>The position of the toilet would be directly beneath the current first floor toilet and would position the loo against the plumbing stack, facilitating easy waste connection.</li>
+<li>The position places the toilet against an exterior wall which will facilitate placement of an appropriate extractor, ducted out of the property.</li>
+</ul>
+<p>In addition to a loo and wash basin, it is proposed that  appropriate preparations and finishings (including any linings, wall and floor coverings) be included to make the space appropriate for use as a shower/wet room. A floor drain is to be installed, as well as a mounted hand shower, such that the space may be used periodically as a shower room.</p>
+<h2 id="new-kitchen">3. New kitchen</h2>
+<p>A new kitchen layout, including relocated plumbing and all new fixtures is proposed. Taking advantage of the revised ground floor layout, a central focus of the kitchen space, the sink, is relocated near the centre of the ground floor within a large worktop open to the living space (former reception room).</p>
+<p>Near the west wall of the property, where the sink is currently located, a new in-built banquet seating area is proposed. This will take advantage of the natural light from the single west-facing window and will make use of an otherwise less accessible area of the new kitchen layout.</p>
+<p>The existing oven, hob and extractor hood are to be replaced with an electric induction cooktop, with in-built downdraft extractor, as well as an electric oven. By eliminating the use of gas for cooking, a reduction in carbon and other harmful emissions produced by the property is anticipated.</p>
+<h2 id="flooring">4. Flooring</h2>
+<p>Electric radiant floor heating is to be installed throughout the ground floor to provide adequate heating in the colder months. With an appropriately sized radiant floor heating system, it is proposed that all existing ground floor radiators be removed from the current heating system. The first floor radiators will continue to be supplied by the existing combination boiler. By reducing the dependence on the gas boiler for heat, it is anticipated that the overall carbon footprint of the property will be further diminished.</p>
+<p>In addition, all ground floor flooring is to be replaced with an appropriate floor covering to improve the visual appeal and liveability as well as to best compliment the radiant floor heating system.</p>
+<h2 id="front-entry-door">5. Front Entry Door</h2>
+<p>The existing front entry door and frame, including the transom window, are to be replaced with an efficient and visually appealing alternative. The styling of the chosen door will keep in line with the overall aesthetic of the block and is not anticipated to depart from the existing front elevation of the property. A more efficient replacement should provide greater insulation at both the door seal (which is currently quite leaky) as well as the transom window above (which is currently single pane).</p>
+<h2 id="additional-modifications">6. Additional Modifications</h2>
+<ol>
+<li>
+<p><strong>Laundry Cupboard</strong><br>
+The existing front cupboard directly adjacent the front entry door has very poor accessibility and is unfinished on the inside. This space currently provides a limited storage function. It is proposed that this space be recreated by removing the current block walls it is comprised of, levelling and finishing the floor, sealing and finishing the exterior wall, and re-framing the partition walls. Supply and waste plumbing is to be installed as well with adequate finishings and other preparations for use as a laundry cupboard. The entry to the space is to be relocated from facing the hall to facing the stairway via folding doors.</p>
+<p>A high-efficiency, stacked washer and tumble dryer combination are to be installed in the newly-finished space.</p>
+</li>
+<li>
+<p><strong>Relocate rear wall</strong><br>
+The existing ground floor layout has the east wall, with access to the rear garden, inset from the east face of the block by approximately <strong>140cm</strong>, forming a covered vestibule. The floor of this vestibule is the concrete foundation of the block and the walls are the block walls of the structure. Most of the flats in the block, including most of the other 13 ground floor flats, have an exterior wall that is flush with the exterior face of the block, without any inset. While this vestibule space provides some benefit as it is somewhat protected from direct exposure to the elements, the “cost” of this current layout is more than six square metres of internal living space. It is proposed that the exterior wall be.</p>
+</li>
+<li>
+<p><strong>Replace rear wall</strong></p>
+</li>
+</ol>
+
+    </div>
+  </div>
+</body>
+
+</html>
