@@ -47,7 +47,15 @@
 <li><a href="#new-kitchen">3. New kitchen</a></li>
 <li><a href="#flooring">4. Flooring</a></li>
 <li><a href="#front-entry-door">5. Front Entry Door</a></li>
-<li><a href="#additional-modifications">6. Additional Modifications</a></li>
+<li><a href="#additional-modifications">6. Additional Modifications</a>
+<ul>
+<li>
+<ul>
+<li></li>
+</ul>
+</li>
+</ul>
+</li>
 </ul>
 </li>
 </ul>
@@ -81,7 +89,7 @@
 <p>Chief among the proposed modifications is removing the interior partition walls on the ground floor to effect a more open living space encompassing the current kitchen, hall and reception rooms.</p>
 <p>As noted above, modifications to the ground floor partition walls will require appropriate accommodations to maintain the structural integrity of the property.</p>
 <p>In consultation with the registered structural engineer who performed the initial inspection, the following structural elements are proposed to support the removal of the interior partition walls:</p>
-<ul>
+<ol>
 <li>Installation of a steel beam, appropriately sized, to carry the load currently supported by the principal north-south wall separating the kitchen and hall from the reception room.
 <ul>
 <li>At the north end, this beam is to be supported by the exterior block wall.</li>
@@ -95,13 +103,13 @@
 </ul>
 <h5 id="fig.-2---proposed-structural-elements">Fig. 2 - Proposed Structural Elements</h5>
 <img src="https://drive.google.com/uc?id=14yCZvD-YCOhpBFFxvP3rjWmdxI9qz2qb" alt="enter image description here"></li>
-</ul>
+</ol>
 <h2 id="add-new-toiletwet-room">2. Add new toilet/wet room</h2>
 <p>As part of the new ground floor layout, an additional toilet is to be added. The proposed location is adjacent the existing hall, near the entrance to the property. The space for the toilet would come primarily by adjusting the existing kitchen layout, resulting in a reduction in width of the kitchen near the west end of the property (see Section 3 for proposed changes to the kitchen).</p>
 <p>Entrance to the toilet would be via a sliding pocket door to make available additional space that would otherwise be required for a typical swinging door. It is also anticipated that a pocket door will make ingress much easier.</p>
 <p>This proposed location has multiple benefits:</p>
 <ul>
-<li>The position of the toilet would be directly beneath the current first floor toilet and would position the loo against the plumbing stack, facilitating easy waste connection.</li>
+<li>The position of the toilet would be directly beneath the current first floor toilet and would position the loo against the existing plumbing stack, facilitating easy waste connection.</li>
 <li>The position places the toilet against an exterior wall which will facilitate placement of an appropriate extractor, ducted out of the property.</li>
 </ul>
 <p>In addition to a loo and wash basin, it is proposed that  appropriate preparations and finishings (including any linings, wall and floor coverings) be included to make the space appropriate for use as a shower/wet room. A floor drain is to be installed, as well as a mounted hand shower, such that the space may be used periodically as a shower room.</p>
@@ -118,17 +126,21 @@
 <ol>
 <li>
 <p><strong>Laundry Cupboard</strong><br>
-The existing front cupboard directly adjacent the front entry door has very poor accessibility and is unfinished on the inside. This space currently provides a limited storage function. It is proposed that this space be recreated by removing the current block walls it is comprised of, levelling and finishing the floor, sealing and finishing the exterior wall, and re-framing the partition walls. Supply and waste plumbing is to be installed as well with adequate finishings and other preparations for use as a laundry cupboard. The entry to the space is to be relocated from facing the hall to facing the stairway via folding doors.</p>
+The existing front cupboard directly adjacent the front entry door has very poor accessibility and is unfinished on the inside. This space currently provides a limited storage function. It is proposed that this space be repurposed by removing the current block walls it is composed of, levelling and finishing the floor, sealing and finishing the exterior wall, and re-framing the partition walls. Supply and waste plumbing is to be installed as well with adequate finishings and other preparations for use as a laundry cupboard. The entry to the space is to be relocated from facing the hall to facing the stairway via folding doors.</p>
 <p>A high-efficiency, stacked washer and tumble dryer combination are to be installed in the newly-finished space.</p>
 </li>
 <li>
 <p><strong>Relocate rear wall</strong><br>
-The existing ground floor layout has the east wall, with access to the rear garden, inset from the east face of the block by approximately <strong>140cm</strong>, forming a covered vestibule. The floor of this vestibule is the concrete foundation of the block and the walls are the block walls of the structure. Most of the flats in the block, including most of the other 13 ground floor flats, have an exterior wall that is flush with the exterior face of the block, without any inset. While this vestibule space provides some benefit as it is somewhat protected from direct exposure to the elements, the “cost” of this current layout is more than six square metres of internal living space. It is proposed that the exterior wall be.</p>
-</li>
-<li>
-<p><strong>Replace rear wall</strong></p>
+The existing ground floor layout has the east wall, with access to the rear garden, inset from the east face of the block by approximately <strong>85cm</strong>, forming a covered veranda. The floor of this veranda is the concrete foundation of the block and the walls are the block walls of the structure. Most of the flats in the block, including most of the other 13 ground floor flats, have an exterior wall that is flush with the exterior face of the block, without any inset. While this veranda space provides some benefit as it is partially protected from direct exposure to the elements, the “cost” of this current layout is more than four square metres of internal living space. It is proposed that the exterior wall be relocated such that it is near flush with the exterior face of the block, incorporating the existing veranda space as internal floor space. This would be done prior to the installation of the flooring and the walls and ceiling would be appropriately finished to effect a seamless incorporation of the extra space into the open living area.</p>
 </li>
 </ol>
+<h5 id="fig-3.-current-inset-veranda-space">fig 3. Current inset veranda space</h5>
+<h5 id="fig-4.-flush-set-exterior-walls-in-block">fig 4. Flush-set exterior walls in block</h5>
+<ol start="3">
+<li><strong>Replace rear wall</strong><br>
+Separately from relocating the rear wall, it is proposed that the current uPVC-frame is replaced with a aluminium frame comprising floor-to-ceiling multi-glazed panels in a bi-fold or sliding door configuration. This will allow for an unobstructed view of the private rear garden and enable greater access to the outdoor space. It is understood that such a change will require necessary lease amendments such that the responsibility for maintenance of this rear wall will be that of the leaseholder, both current and future.</li>
+</ol>
+<h5 id="fig-5.-representative-sample-of-sliding-patio-doors">fig 5. Representative sample of sliding patio doors</h5>
 
     </div>
   </div>
