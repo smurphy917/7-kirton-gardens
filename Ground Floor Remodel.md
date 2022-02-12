@@ -47,15 +47,7 @@
 <li><a href="#new-kitchen">3. New kitchen</a></li>
 <li><a href="#flooring">4. Flooring</a></li>
 <li><a href="#front-entry-door">5. Front Entry Door</a></li>
-<li><a href="#additional-modifications">6. Additional Modifications</a>
-<ul>
-<li>
-<ul>
-<li></li>
-</ul>
-</li>
-</ul>
-</li>
+<li><a href="#additional-modifications">6. Additional Modifications</a></li>
 </ul>
 </li>
 </ul>
@@ -126,21 +118,14 @@
 <ol>
 <li>
 <p><strong>Laundry Cupboard</strong><br>
-The existing front cupboard directly adjacent the front entry door has very poor accessibility and is unfinished on the inside. This space currently provides a limited storage function. It is proposed that this space be repurposed by removing the current block walls it is composed of, levelling and finishing the floor, sealing and finishing the exterior wall, and re-framing the partition walls. Supply and waste plumbing is to be installed as well with adequate finishings and other preparations for use as a laundry cupboard. The entry to the space is to be relocated from facing the hall to facing the stairway via folding doors.</p>
+The existing front cupboard directly adjacent the front entry door has very poor accessibility and is unfinished on the inside. This space currently provides a limited storage function. It is proposed that this space be repurposed by removing the current partition walls it is composed of, levelling and finishing the floor, sealing and finishing the exterior wall, and re-framing the partition walls. Supply and waste plumbing is to be installed as well with adequate finishings and other preparations for use as a laundry cupboard. The entry to the space is to be relocated from facing the hall to facing the stairway via folding doors.</p>
 <p>A high-efficiency, stacked washer and tumble dryer combination are to be installed in the newly-finished space.</p>
 </li>
 <li>
-<p><strong>Relocate rear wall</strong><br>
-The existing ground floor layout has the east wall, with access to the rear garden, inset from the east face of the block by approximately <strong>85cm</strong>, forming a covered veranda. The floor of this veranda is the concrete foundation of the block and the walls are the block walls of the structure. Most of the flats in the block, including most of the other 13 ground floor flats, have an exterior wall that is flush with the exterior face of the block, without any inset. While this veranda space provides some benefit as it is partially protected from direct exposure to the elements, the “cost” of this current layout is more than four square metres of internal living space. It is proposed that the exterior wall be relocated such that it is near flush with the exterior face of the block, incorporating the existing veranda space as internal floor space. This would be done prior to the installation of the flooring and the walls and ceiling would be appropriately finished to effect a seamless incorporation of the extra space into the open living area.</p>
+<p><strong>Interior Redecoration</strong><br>
+In support of the re-configured interior space, all ground floor interior wall and ceiling surfaces are to be re-skimmed and painted. New lighting is planned including recessed LED fixtures as well as decorative pendant lights. Any necessary modifications of electrical outlets to support the new layout will also be undertaken in conjunction.</p>
 </li>
 </ol>
-<h5 id="fig-3.-current-inset-veranda-space">fig 3. Current inset veranda space</h5>
-<h5 id="fig-4.-flush-set-exterior-walls-in-block">fig 4. Flush-set exterior walls in block</h5>
-<ol start="3">
-<li><strong>Replace rear wall</strong><br>
-Separately from relocating the rear wall, it is proposed that the current uPVC-frame is replaced with a aluminium frame comprising floor-to-ceiling multi-glazed panels in a bi-fold or sliding door configuration. This will allow for an unobstructed view of the private rear garden and enable greater access to the outdoor space. It is understood that such a change will require necessary lease amendments such that the responsibility for maintenance of this rear wall will be that of the leaseholder, both current and future.</li>
-</ol>
-<h5 id="fig-5.-representative-sample-of-sliding-patio-doors">fig 5. Representative sample of sliding patio doors</h5>
 
     </div>
   </div>
